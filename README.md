@@ -11,4 +11,6 @@ A fun project that simulates the Many-Worlds interpretation of quantum mechanics
 ## Installation
 
 ```bash
+python3 -m venv venv
+source venv/bin/activate # On Windows use '.\venv\Scripts\activate'
 pip install -r requirements.txt
